@@ -1,0 +1,6 @@
+{
+  "name": "IndiSwitch - ISO 8583 & UPI Payment Switch Platform",
+  "description": "Production-grade Indian Payment Switch and Merchant Platform handling ISO 8583 card processing, EMV ARQC cryptograms, PIN block translation, NPCI/UPI 2.0 dynamic QR orchestration, real-time rule & ML fraud engine, 3-way reconciliation, settlement jobs, and terminal simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
